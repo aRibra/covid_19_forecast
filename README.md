@@ -1,7 +1,7 @@
 # covid_19_forecast
 COVID-19 infection forecast (r_naught/growth rate)
 
-**Implementation: PyTorch 1.2 **
+**Implementation: PyTorch 1.2**
 
 ### Motivation
 Forecast potential upcomming new COVID-19 inefction cases. 

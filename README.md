@@ -17,4 +17,4 @@ https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/data
 [Link1](https://towardsdatascience.com/modeling-exponential-growth-49a2b6f22e1f)
 
 ### March 27th - April 2nd Forecast
-![7-days-forecast](covid_19one_week_forecast.png "7-days-forecast")
+![7-days-forecast](covid_19one_week_forecast_.png "7-days-forecast")

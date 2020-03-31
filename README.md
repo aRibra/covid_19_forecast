@@ -4,7 +4,7 @@ COVID-19 infection forecast (r_naught/growth rate)
 **Implementation: PyTorch 1.2**
 
 ### Motivation
-Forecast potential upcomming new COVID-19 inefction cases.  
+Forecast potential upcoming new COVID-19 inefction cases.  
 **Note: This is not a scientific experiment, it is only for practicing.**
 
 ### Dataset
